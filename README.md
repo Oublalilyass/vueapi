@@ -1,4 +1,4 @@
-Building a Trello Clone using Laravel and Vue
+<h1>Building a Trello Clone using Laravel and Vue</h1>
 This is a demo application showing how to build a simple trello clone using Laravel and Vue. 
 
 Getting Started
