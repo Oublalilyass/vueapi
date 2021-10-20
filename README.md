@@ -1,12 +1,12 @@
-<h1>Building a Trello Clone using Laravel and Vue</h1>
+<h3>Building a Trello Clone using Laravel and Vue</h3>
 This is a demo application showing how to build a simple trello clone using Laravel and Vue. 
 
-Getting Started
+<h3>Getting Started</h3>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
-What things you need to install the software.
+<h3>Prerequisites</h3>
+<h4>What things you need to install the software.</h4>
 
 Git.
 PHP.
@@ -21,7 +21,7 @@ Clone the git repository on your computer
 $ git clone https://github.com/Oublalilyass/vueapi.git
 You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
 
-After cloning the application, you need to install it's dependencies.
+<h5>After cloning the application, you need to install it's dependencies.</h5>
 
 $ cd trello-clone-vue-laravel
 $ composer install
@@ -32,7 +32,7 @@ Generate the application key
 $ php artisan key:generate
 Add your database credentials to the necessary env fields
 
-Migrate the application
+<h3>Migrate the application</h3>
 
 $ php artisan migrate
 Seed Database
